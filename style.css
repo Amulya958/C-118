@@ -1,0 +1,15 @@
+body{
+    background-color: chartreuse;
+}
+
+h1{
+    background-color: rgb(252, 239, 169);
+}
+
+#span1{
+    margin-left: 1120px;
+}
+
+#span2{
+    margin-right: 1200px;
+}
